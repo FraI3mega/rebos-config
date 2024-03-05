@@ -1,0 +1,17 @@
+pkg_managers.system.pkgs = [
+  "cliphist",
+  "waybar-git",
+  "rofi-lbonn-wayland-git",
+  "swww",
+  "swaync",
+  "nwg-look-bin",
+  "hyprlock-git",
+  "hypridle",
+  "qt5-wayland",
+  "sddm",
+  "grim",
+  "slurp",
+  "kvantum",
+  "polkit-gnome",
+  "wlogout",
+]

@@ -1,0 +1,15 @@
+pkg_managers.system.pkgs = [
+  "linux-zen",
+  "linux-zen-headers",
+  "lld",
+  "llvm",
+  "gvfs",
+  "udisks2",
+  "parted",
+  "git",
+  "zip",
+  "unzip",
+  "clang",
+  "gcc",
+  "linux-firmware",
+]

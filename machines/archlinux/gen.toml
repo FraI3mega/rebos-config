@@ -1,0 +1,30 @@
+# --------------------- #
+#    Generation File    #
+# --------------------- #
+
+imports = [
+  "drivers/nvidia",
+  "intensive",
+  "hyprland",
+  "programming-languages/rust",
+  "programming-languages/zig",
+  "programming-languages/python",
+  "gaming",
+]
+
+# Packages to be installed via the native package manager.
+pkg_managers.system.pkgs = [
+  # "git",
+  "amd-ucode",
+  "linux-firmware-qlogic",
+]
+
+# Packages to be installed via Flatpak.
+pkg_managers.flatpak.pkgs = [
+  # "com.github.tchx84.Flatseal",
+]
+
+# Packages to be installed via Cargo.
+pkg_managers.cargo.pkgs = [
+  # "bacon",
+] # Other generation files to import. (Example: intensive_apps -> ~/.config/rebos/imports/intensive_apps.toml)

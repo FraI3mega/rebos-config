@@ -1,0 +1,9 @@
+pkg_managers.system.pkgs = [
+  "pamixer",
+  "pavucontrol",
+  "pipewire",
+  "pipewire-alsa",
+  "pipewire-audio",
+  "pipewire-pulse",
+  "noise-suppression-for-voice",
+]

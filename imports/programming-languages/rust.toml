@@ -1,0 +1,1 @@
+pkg_managers.system.pkgs = ["rustup", "cargo-zigbuild"]

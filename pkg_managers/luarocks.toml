@@ -1,0 +1,7 @@
+
+install = "luarocks install #:?" # Example for APT: 'sudo apt install #:?'
+remove = "luarocks install #:?"  # Example for APT: 'sudo apt remove #:?'
+
+plural_name = "rocks" # Example for APT: 'system packages'
+
+config = { many_pkg_args = false }

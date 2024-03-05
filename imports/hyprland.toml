@@ -1,0 +1,2 @@
+imports = ["wayland", "ricing", "audio"]
+pkg_managers.system.pkgs = ["hyprland-git", "xdg-desktop-portal-hyprland-git"]

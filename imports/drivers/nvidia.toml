@@ -1,0 +1,7 @@
+pkg_managers.system.pkgs = [
+  "nvidia-dkms",
+  "nvidia-settings",
+  "nvidia-utils",
+  "libva",
+  "libva-nvidia-driver-git",
+]
