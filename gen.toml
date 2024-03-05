@@ -15,6 +15,7 @@ pkg_managers.system.pkgs = [
   "bat",
   "bottom",
   "btop",
+  "bless",
   "cava",
   "chezmoi",
   "cups",
