@@ -79,6 +79,7 @@ pkg_managers.system.pkgs = [
   "ttf-firacode-nerd",
   "ttf-jetbrains-mono",
   "ttf-jetbrains-mono-nerd",
+  "ventoy",
   "vesktop",
   "wakatime",
   "wezterm-git",
@@ -98,7 +99,7 @@ pkg_managers.system.pkgs = [
 pkg_managers.flatpak.pkgs = [
   "com.github.tchx84.Flatseal",
   "md.obsidian.Obsidian",
-
+  "net.ankiweb.Anki",
 ]
 
 # Packages to be installed via Cargo.
