@@ -121,6 +121,7 @@ pkg_managers.cargo.pkgs = [
   "wiki-tui",
   "mprocs",
   "uwuify",
+  "cargo-unused-features",
 ]
 
 pkg_managers.bob.pkgs = ["nightly"]
