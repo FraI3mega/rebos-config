@@ -25,6 +25,8 @@ pkg_managers.system.pkgs = [
   "ttf-fira-code",
   "ttf-jetbrains-mono",
   "ttf-jetbrains-mono-nerd",
+  "waybar-updates",
+  "wttrbar-git",
   "wireplumber",
   "xdg-desktop-portal",
   "xdg-desktop-portal-gtk",
