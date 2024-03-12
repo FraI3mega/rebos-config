@@ -1,0 +1,1 @@
+pkg_managers.system.pkgs = ["quickgui-bin", "virt-manager", "qemu-desktop"]
