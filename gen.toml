@@ -100,6 +100,7 @@ pkg_managers.flatpak.pkgs = [
   "com.github.tchx84.Flatseal",
   "md.obsidian.Obsidian",
   "net.ankiweb.Anki",
+  "org.gnome.World.PikaBackup",
 ]
 
 # Packages to be installed via Cargo.

@@ -5,6 +5,7 @@
 imports = [
   "drivers/nvidia",
   "intensive",
+  "virtualization",
   "hyprland",
   "programming-languages/rust",
   "programming-languages/zig",
