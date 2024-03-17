@@ -1,1 +1,1 @@
-pkg_managers.system.pkgs = ["gifsicle", "kdenlive", "handbrake"]
+pkg_managers.system.pkgs = ["gifsicle", "kdenlive", "handbrake", "shotcut"]
