@@ -1,2 +1,8 @@
 
-pkg_managers.system.pkgs = ["steam", "gamemode", "mangohud", "gamescope"]
+pkg_managers.system.pkgs = [
+  "steam",
+  "gamemode",
+  "mangohud",
+  "gamescope",
+  "sunshine",
+]
