@@ -72,8 +72,10 @@ pkg_managers.system.pkgs = [
   "tumbler",
   "ffmpegthumbnailer",
   "thunar-archive-plugin",
-  "timeshift",
-  "timeshift-autosnap",
+  "snapper",
+  "qmk",
+  "cronie",
+  "snap-pac",
   "tokei",
   "topgrade",
   "trash-cli",
@@ -103,7 +105,6 @@ pkg_managers.flatpak.pkgs = [
   "org.gnome.World.PikaBackup",
 ]
 
-# Packages to be installed via Cargo.
 pkg_managers.cargo.pkgs = [
   "bacon",
   "bob-nvim",
@@ -112,6 +113,8 @@ pkg_managers.cargo.pkgs = [
   "cargo-geiger",
   "cargo-nextest",
   "cargo-udeps",
+  "cargo-generate",
+  "diskonaut",
   "cross",
   "cargo-cache",
   "cargo-bloat",
@@ -123,7 +126,7 @@ pkg_managers.cargo.pkgs = [
   "mprocs",
   "uwuify",
   "cargo-unused-features",
-]
+] # Packages to be installed via Cargo.
 
 pkg_managers.bob.pkgs = ["nightly"]
 
