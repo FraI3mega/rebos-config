@@ -5,4 +5,5 @@ pkg_managers.system.pkgs = [
   "mangohud",
   "gamescope",
   "sunshine",
+  "prismlauncher",
 ]
