@@ -1,6 +1,6 @@
 pkg_managers.system.pkgs = [
   "cliphist",
-  # "waybar",
+  "waybar",
   "rofi-lbonn-wayland-git",
   "swww",
   "swaync",
