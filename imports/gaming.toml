@@ -6,4 +6,5 @@ pkg_managers.system.pkgs = [
   "gamescope",
   "sunshine",
   "prismlauncher",
+  "goverlay",
 ]
