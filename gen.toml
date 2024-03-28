@@ -88,6 +88,7 @@ pkg_managers.system.pkgs = [
   "ttf-jetbrains-mono-nerd",
   "ventoy",
   "vesktop",
+  "oxipng",
   "wakatime",
   "wezterm-git",
   "wget",
