@@ -122,6 +122,7 @@ pkg_managers.cargo.pkgs = [
   "cargo-nextest",
   "cargo-udeps",
   "cargo-generate",
+  "cargo-wizard",
   "diskonaut",
   "cross",
   "cargo-cache",
