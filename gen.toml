@@ -102,7 +102,6 @@ pkg_managers.system.pkgs = [
   "zellij",
   "zoxide",
   "just",
-  "sioyek",
 ] # Packages to be installed via the native package manager.
 
 # Packages to be installed via Flatpak.
@@ -111,6 +110,7 @@ pkg_managers.flatpak.pkgs = [
   "md.obsidian.Obsidian",
   "net.ankiweb.Anki",
   "org.gnome.World.PikaBackup",
+  "com.github.ahrm.sioyek",
 ]
 
 pkg_managers.cargo.pkgs = [
