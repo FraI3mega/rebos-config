@@ -123,6 +123,7 @@ pkg_managers.cargo.pkgs = [
   "cargo-udeps",
   "cargo-generate",
   "cargo-wizard",
+  "cargo-pgo",
   "diskonaut",
   "cross",
   "cargo-cache",
