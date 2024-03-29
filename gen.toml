@@ -129,6 +129,7 @@ pkg_managers.cargo.pkgs = [
   "cargo-pgo",
   "diskonaut",
   "cross",
+  "tin-summer",
   "cargo-cache",
   "onefetch",
   "cargo-bloat",
