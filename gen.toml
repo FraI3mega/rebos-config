@@ -102,6 +102,7 @@ pkg_managers.system.pkgs = [
   "zellij",
   "zoxide",
   "just",
+  "sioyek",
 ] # Packages to be installed via the native package manager.
 
 # Packages to be installed via Flatpak.
