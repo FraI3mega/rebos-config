@@ -7,4 +7,5 @@ pkg_managers.system.pkgs = [
   "sunshine",
   "prismlauncher",
   "goverlay",
+  "lutris",
 ]
