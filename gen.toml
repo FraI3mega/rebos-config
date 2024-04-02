@@ -53,6 +53,7 @@ pkg_managers.system.pkgs = [
   "mpv",
   "navi",
   "neofetch",
+  "neovide",
   "noto-fonts",
   "noto-fonts-emoji",
   "nvtop",
