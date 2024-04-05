@@ -58,6 +58,7 @@ pkg_managers.system.pkgs = [
   "nvtop",
   "otf-font-awesome",
   "ouch",
+  "pastel",
   "peaclock",
   "progress",
   "prusa-slicer",
