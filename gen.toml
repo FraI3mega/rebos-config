@@ -59,6 +59,7 @@ pkg_managers.system.pkgs = [
   "otf-font-awesome",
   "ouch",
   "pastel",
+  "viu",
   "peaclock",
   "progress",
   "prusa-slicer",
