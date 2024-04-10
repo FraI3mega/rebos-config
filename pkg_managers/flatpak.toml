@@ -1,7 +1,7 @@
 # Flatpak
 
-install = "flatpak install #:?"
-remove = "flatpak uninstall #:?"
+add = "flatpak install #:?"
+remove = "flatpak unadd #:?"
 upgrade = "flatpak upgrade"
 
 plural_name = "flatpaks"

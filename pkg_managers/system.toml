@@ -6,9 +6,9 @@
 # That means including 'sudo' or 'doas' or whatever if the command needs it.
 # Where you would put packages, enter '#:?'.
 
-# Example: install = "sudo apt install #:?"
+# Example: add = "sudo apt install #:?"
 
-install = "paru -S #:?"   # Example: sudo apt install #:?
+add = "paru -S #:?"   # Example: sudo apt install #:?
 remove = "paru -Runs #:?" # Example: sudo apt remove #:?
 sync = "paru -Syy"        # Example: sudo apt update
 upgrade = "paru -Syyu"    # Example: sudo apt upgrade
@@ -19,7 +19,7 @@ plural_name = "system packages"
 #    Additional configuration.    #
 # ------------------------------- #
 
-# many_pkg_args = BOOL: Can you supply many packages as an argument? Example: 'sudo apt install git vim wget'
+# many_pkg_args = BOOL: Can you supply many packages as an argument? Example: 'sudo apt add git vim wget'
 
 [config]
 many_args = true

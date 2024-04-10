@@ -1,7 +1,7 @@
 # Cargo
 
-install = "cargo install #:?"
-remove = "cargo uninstall #:?"
+add = "cargo install #:?"
+remove = "cargo unadd #:?"
 
 plural_name = "crates"
 

@@ -1,6 +1,6 @@
 
-install = "bob install #:?"  # Example for APT: 'sudo apt install #:?'
-remove = "bob uninstall #:?" # Example for APT: 'sudo apt remove #:?'
+add = "bob install #:?"  # Example for APT: 'sudo apt install #:?'
+remove = "bob unadd #:?" # Example for APT: 'sudo apt remove #:?'
 upgrade = "bob update --all" # Example for APT: 'sudo apt upgrade'
 
 plural_name = "neovim" # Example for APT: 'system packages'
