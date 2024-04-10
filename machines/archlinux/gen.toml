@@ -14,18 +14,21 @@ imports = [
 ]
 
 # Packages to be installed via the native package manager.
-pkg_managers.system.pkgs = [
+[managers.system]
+items  = [
   # "git",
   "amd-ucode",
   "linux-firmware-qlogic",
 ]
 
 # Packages to be installed via Flatpak.
-pkg_managers.flatpak.pkgs = [
+[managers.flatpak]
+items  = [
   # "com.github.tchx84.Flatseal",
 ]
 
 # Packages to be installed via Cargo.
-pkg_managers.cargo.pkgs = [
+[managers.cargo]
+items  = [
   # "bacon",
 ] # Other generation files to import. (Example: intensive_apps -> ~/.config/rebos/imports/intensive_apps.toml)

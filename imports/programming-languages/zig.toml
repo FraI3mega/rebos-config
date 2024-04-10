@@ -1,1 +1,2 @@
-pkg_managers.system.pkgs = ["zig"]
+[managers.system]
+items  = ["zig"]

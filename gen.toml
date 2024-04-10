@@ -8,7 +8,8 @@ imports = [
   "core",
 ]
 
-pkg_managers.system.pkgs = [
+[managers.system]
+items  = [
   "aria2",
   "asciinema",
   "atuin",
@@ -110,7 +111,8 @@ pkg_managers.system.pkgs = [
 ] # Packages to be installed via the native package manager.
 
 # Packages to be installed via Flatpak.
-pkg_managers.flatpak.pkgs = [
+[managers.flatpak]
+items  = [
   "com.github.tchx84.Flatseal",
   "md.obsidian.Obsidian",
   "net.ankiweb.Anki",
@@ -118,7 +120,8 @@ pkg_managers.flatpak.pkgs = [
   "com.github.ahrm.sioyek",
 ]
 
-pkg_managers.cargo.pkgs = [
+[managers.cargo]
+items  = [
   "bacon",
   "bob-nvim",
   "cargo-binstall",
@@ -145,6 +148,8 @@ pkg_managers.cargo.pkgs = [
   "cargo-unused-features",
 ] # Packages to be installed via Cargo.
 
-pkg_managers.bob.pkgs = ["nightly"]
+[managers.bob]
+items  = ["nightly"]
 
-pkg_managers.luarocks.pkgs = ["magick --local --lua-version=5.1"]
+[managers.luarocks]
+items  = ["magick --local --lua-version=5.1"]

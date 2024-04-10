@@ -1,1 +1,2 @@
-pkg_managers.system.pkgs = ["rustup", "cargo-zigbuild"]
+[managers.system]
+items  = ["rustup", "cargo-zigbuild"]

@@ -1,5 +1,6 @@
 
-pkg_managers.system.pkgs = [
+[managers.system]
+items  = [
   "steam",
   "gamemode",
   "mangohud",

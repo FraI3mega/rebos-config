@@ -1,1 +1,2 @@
-pkg_managers.system.pkgs = ["gifsicle", "kdenlive", "handbrake", "shotcut"]
+[managers.system]
+items  = ["gifsicle", "kdenlive", "handbrake", "shotcut"]

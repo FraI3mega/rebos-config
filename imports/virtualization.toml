@@ -1,1 +1,2 @@
-pkg_managers.system.pkgs = ["quickgui-bin", "virt-manager", "qemu-desktop"]
+[managers.system]
+items  = ["quickgui-bin", "virt-manager", "qemu-desktop"]

@@ -21,4 +21,5 @@ plural_name = "system packages"
 
 # many_pkg_args = BOOL: Can you supply many packages as an argument? Example: 'sudo apt install git vim wget'
 
-config = { many_pkg_args = true }
+[config]
+many_args = true
