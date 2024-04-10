@@ -82,6 +82,7 @@ items  = [
   "words",
   "bc",
   "snapper",
+  "git-absorb",
   "qmk",
   "cronie",
   "snap-pac",
